@@ -71,7 +71,7 @@ urlpatterns = [
 
 
 # OUTPUT
-![alt text](<Screenshot 2026-11-03 142912.png>)
+
 
 
 # RESULT
